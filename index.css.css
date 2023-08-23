@@ -1,0 +1,35 @@
+.web{
+    background-color:black;
+    padding:70px;
+    color:antiquewhite;
+    text-align: center;
+    font-size: 20px;
+    font-family: 'Courier New', Courier, monospace;
+}
+section{
+    text-align: center ;
+    display:contents;
+    font-family: 'Courier New', Courier, monospace;
+
+}
+nav{
+    background-color: azure;
+    width:20px;
+    height: 50px;
+    color:brown;
+    text-align: justify;
+    font-family: 'Courier New', Courier, monospace;
+
+}
+article{
+    background-color: aqua;
+    font-family: 'Courier New', Courier, monospace;
+}
+footer{
+    background-color:bisque;
+    color:rgb(58, 212, 160);
+    text-align: center;
+    font-size: 20px;
+    padding:50px;
+    font-family: 'Courier New', Courier, monospace;
+}
